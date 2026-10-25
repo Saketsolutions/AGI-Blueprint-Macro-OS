@@ -1,0 +1,38 @@
+================================================================================
+SAKET SOLUTIONS SOURCE-AVAILABLE NON-COMMERCIAL PUBLIC LICENSE (v1.0)
+================================================================================
+
+Copyright (c) Saket Solutions / Saket Kumar Pandey. All rights reserved.
+Primary Author: Saket Kumar Pandey (info@saketsolutions.in)
+
+1. PERMITTED USES (NON-COMMERCIAL & RESEARCH ONLY):
+Permission is hereby granted, free of charge, to any person or institution 
+obtaining a copy of this documentation, architectural specifications, workflow 
+schemas, and associated open-core code in this repository, to inspect, research, 
+academic study, and evaluate the Work, subject to the following conditions:
+
+(a) Non-Commercial Limitation: The Work and any derivative works may NOT be used 
+    for commercial gain, monetized SaaS services, proprietary product development, 
+    or internal enterprise production systems without an explicit commercial license 
+    issued by Saket Solutions.
+(b) Attribution: All copies or substantial portions of the Work must retain the 
+    above copyright notice, author attribution, and contact details.
+(c) Safety Protocols Compliance: Any research implementation must strictly adhere 
+    to the Two-Stage Safe Deployment Protocol detailed in Section 10 of 
+    The AGI Blueprint.
+
+2. EXCLUSION OF PROPRIETARY CORE MODULES (MODULE R & MODULE Q):
+This License applies strictly to the open-core specifications, public schemas, 
+and documentation contained in this repository. This License DOES NOT grant, 
+convey, transfer, or license any rights, source code, execution weights, or 
+access to:
+  - Module R (Invention & Structural Synthesis Core)
+  - Module Q (Autonomous Scientific Discovery & Hypothesis Engine)
+
+These modules remain classified proprietary assets of Saket Solutions, governed 
+exclusively by private enterprise licensing agreements and hardware air-gapping.
+
+3. COMMERCIAL LICENSING & INQUIRIES:
+For enterprise deployment authorization, commercial licensing, or technical 
+evaluation of Module R and Module Q, contact:
+Saket Solutions (info@saketsolutions.in)
